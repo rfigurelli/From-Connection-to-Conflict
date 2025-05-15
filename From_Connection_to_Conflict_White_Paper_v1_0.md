@@ -2,7 +2,7 @@
 
 **White Paper v1.0.0** - **Author:** Rogério Figurelli - **Date:** May 2025
 
-## Executive Summary
+## Executive Summary 
 
 This white paper presents a cross-domain framework for evaluating speech in terms of its systemic coherence and communicative impact. Drawing from principles in information theory \[1], systems science \[6], and metaphorical extensions of quantum entanglement \[2], we propose a model that assesses the harmonic value of any verbal expression. The model is built upon the formula H = QE / (1 + S), where H denotes the harmonic quality, QE reflects relational coherence, and S quantifies semantic entropy or contextual noise.
 
